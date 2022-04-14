@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+    color: white;
+}
+label
+{
+    font-size: 18px;
+}
+.container
+{
+    text-align: center;
+    margin-top: 200px;
+}
+
+input
+{
+    border-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.button
+{
+    background-color:yellow;
+    color:black;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
